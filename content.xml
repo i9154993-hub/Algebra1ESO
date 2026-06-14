@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026061402424159YVRI</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026061402424134VOJD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Descubriendo el álgebra a través de retos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje para 1.º de ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Isabel María Montoya Morales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida al alumnado de 1.º de ESO para la introducción al lenguaje algebraico y la resolución de ecuaciones sencillas mediante retos matemáticos y el uso de herramientas digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781369562510</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1781368763640-0lggayec4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781368763640-0lggayec4</odePageId>
+      <odeBlockId>block-1781369865759-06zfdbsa9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781368763640-0lggayec4</odePageId>
+          <odeBlockId>block-1781369865759-06zfdbsa9</odeBlockId>
+          <odeIdeviceId>idevice-1781369865755-s4y06iorx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 640px;"><img src="{{context_path}}/content/resources/Matemáticas 1º ESO.png" title="Matemáticas 1.º de ESO" width="640" height="360" alt="Portada de matemáticas de 1º de ESO" />
+<figcaption class="figcaption"><span class="author">Isabel M. Montoya Morales</span>. <span class="title"><em>Portada de matemáticas de 1º de ESO</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781369865755-s4y06iorx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 640px;\"><img src=\"{{context_path}}/content/resources/Matemáticas 1º ESO.png\" title=\"Matemáticas 1.º de ESO\" width=\"640\" height=\"360\" alt=\"Portada de matemáticas de 1º de ESO\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel M. Montoya Morales</span>. <span class=\"title\"><em>Portada de matemáticas de 1º de ESO</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqclhnrp-v5a72kb46</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqclhnrp-v5a72kb46</odePageId>
+      <odeBlockId>block-1781370162824-x8271azkx</odeBlockId>
+      <blockName>Descubriendo el lenguaje algebraico</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrp-v5a72kb46</odePageId>
+          <odeBlockId>block-1781370162824-x8271azkx</odeBlockId>
+          <odeIdeviceId>idevice-1781370162823-ei9gj3d1u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure float-left" style="width: 250px;"><img src="{{context_path}}/content/resources/mceclip7.png" /><br />
+<figcaption class="figcaption"><span class="author">Isabel M. Montoya (generada con Canva IA)</span>. <span class="title"><em>Detective matemática </em></span><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<h1 style="text-align: center;"><strong> </strong></h1>
+<h2 style="text-align: center;"><strong>¿Te imaginas poder traducir frases a símbolos matemáticos como si fueran códigos secretos?</strong></h2>
+<h5 style="text-align: center;"><br />En esta situación de aprendizaje descubrirás cómo utilizar el lenguaje algebraico y resolver ecuaciones para superar retos y resolver problemas reales. También utilizarás herramientas digitales para crear y presentar tus propias soluciones.</h5>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781370162823-ei9gj3d1u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure float-left\" style=\"width: 250px;\"><img src=\"{{context_path}}/content/resources/mceclip7.png\" /><br />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel M. Montoya (generada con Canva IA)</span>. <span class=\"title\"><em>Detective matemática </em></span><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<h1 style=\"text-align: center;\"><strong> </strong></h1>\n<h2 style=\"text-align: center;\"><strong>¿Te imaginas poder traducir frases a símbolos matemáticos como si fueran códigos secretos?</strong></h2>\n<h5 style=\"text-align: center;\"><br />En esta situación de aprendizaje descubrirás cómo utilizar el lenguaje algebraico y resolver ecuaciones para superar retos y resolver problemas reales. También utilizarás herramientas digitales para crear y presentar tus propias soluciones.</h5>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqclhnrp-v5a72kb46</odePageId>
+      <odeBlockId>block-1781371827228-ewiu2ec1l</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrp-v5a72kb46</odePageId>
+          <odeBlockId>block-1781371827228-ewiu2ec1l</odeBlockId>
+          <odeIdeviceId>idevice-1781371827226-vc9b8z7lr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Interpretar situaciones mediante lenguaje algebraico.</li>
+<li>Utilizar letras para representar números desconocidos.</li>
+<li>Resolver ecuaciones sencillas.</li>
+<li>Aplicar el álgebra a problemas cotidianos.</li>
+</ol>
+<p><strong>Nivel: </strong>1.º ESO</p>
+<p><strong>Temporalización:</strong> 9 sesiones de 55 minutos<br /></p>
+<p><strong>Materia: </strong>Matemáticas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781371827226-vc9b8z7lr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Interpretar situaciones mediante lenguaje algebraico.</li>\n<li>Utilizar letras para representar números desconocidos.</li>\n<li>Resolver ecuaciones sencillas.</li>\n<li>Aplicar el álgebra a problemas cotidianos.</li>\n</ol>\n<p><strong>Nivel: </strong>1.º ESO</p>\n<p><strong>Temporalización:</strong> 9 sesiones de 55 minutos<br /></p>\n<p><strong>Materia: </strong>Matemáticas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqclhnrq-nz19j8vs8</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>2. Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqclhnrq-nz19j8vs8</odePageId>
+      <odeBlockId>block-1781372124724-83ceoi569</odeBlockId>
+      <blockName>Protección de datos y ciudadanía digital</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrq-nz19j8vs8</odePageId>
+          <odeBlockId>block-1781372124724-83ceoi569</odeBlockId>
+          <odeIdeviceId>idevice-1781372124722-jsh6yv9i5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/mceclip2.jpg" title="Protección de datos y ciudadanía digital" alt="Protección de datos" />
+<figcaption class="figcaption"><span class="author">Isabel M. Montoya Morales</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781372124722-jsh6yv9i5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/mceclip2.jpg\" title=\"Protección de datos y ciudadanía digital\" alt=\"Protección de datos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel M. Montoya Morales</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqclhnrq-zrk5ef7c3</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>3. Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqclhnrq-zrk5ef7c3</odePageId>
+      <odeBlockId>block-1781372923131-ce7n3tby8</odeBlockId>
+      <blockName>Nuestro producto final</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrq-zrk5ef7c3</odePageId>
+          <odeBlockId>block-1781372923131-ce7n3tby8</odeBlockId>
+          <odeIdeviceId>idevice-1781372923126-sdskz7zr7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cada grupo elaborará una presentación o infografía utilizando Canva.</p>
+<p>En ella explicará un reto matemático o un pequeño truco matemático basado en el lenguaje algebraico y las ecuaciones sencillas.</p>
+<p><strong>- Herramienta utilizada:</strong> <a href="https://www.canva.com/" target="_blank" rel="noopener" title="">Canva (pulsa aquí)</a></p>
+<p><strong>- Debe incluir:</strong></p>
+<ol>
+<li>Explicación del reto.</li>
+<li>Resolución paso a paso.</li>
+<li>Solución final.</li>
+<li>Diseño claro y visual.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781372923126-sdskz7zr7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cada grupo elaborará una presentación o infografía utilizando Canva.</p>\n<p>En ella explicará un reto matemático o un pequeño truco matemático basado en el lenguaje algebraico y las ecuaciones sencillas.</p>\n<p><strong>- Herramienta utilizada:</strong> <a href=\"https://www.canva.com/\" target=\"_blank\" rel=\"noopener\" title=\"\">Canva (pulsa aquí)</a></p>\n<p><strong>- Debe incluir:</strong></p>\n<ol>\n<li>Explicación del reto.</li>\n<li>Resolución paso a paso.</li>\n<li>Solución final.</li>\n<li>Diseño claro y visual.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqclhnrq-bo2immyfo</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>4. Recursos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqclhnrq-bo2immyfo</odePageId>
+      <odeBlockId>block-1781373323622-3pgl3wmwl</odeBlockId>
+      <blockName>Recursos digitales</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrq-bo2immyfo</odePageId>
+          <odeBlockId>block-1781373323622-3pgl3wmwl</odeBlockId>
+          <odeIdeviceId>idevice-1781373323568-9c1f3vqx2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2><strong>Recurso para el alumnado: </strong></h2>
+<p><strong></strong></p>
+<p><strong title=""><a href="https://padlet.com/imonmor856/recursos-digitales-para-aprender-algebra-en-1-eso-ul5lmtszmulx6oda" target="_blank" rel="noopener">Padlet para el alumnado</a></strong></p>
+<p><strong title=""></strong></p>
+<h2><strong title="">Recurso para el profesorado:</strong></h2>
+<p><strong title=""></strong></p>
+<p><strong title=""><a href="https://www.symbaloo.com/shared/AAAAAROmSV8AA41-5EaG7A==" target="_blank" rel="noopener">Symbaloo</a></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781373323568-9c1f3vqx2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2><strong>Recurso para el alumnado: </strong></h2>\n<p><strong></strong></p>\n<p><strong title=\"\"><a href=\"https://padlet.com/imonmor856/recursos-digitales-para-aprender-algebra-en-1-eso-ul5lmtszmulx6oda\" target=\"_blank\" rel=\"noopener\">Padlet para el alumnado</a></strong></p>\n<p><strong title=\"\"></strong></p>\n<h2><strong title=\"\">Recurso para el profesorado:</strong></h2>\n<p><strong title=\"\"></strong></p>\n<p><strong title=\"\"><a href=\"https://www.symbaloo.com/shared/AAAAAROmSV8AA41-5EaG7A==\" target=\"_blank\" rel=\"noopener\">Symbaloo</a></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqclhnrr-puqq2cnp7</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>5. Actividades y temporalización</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades y temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades y temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqclhnrr-puqq2cnp7</odePageId>
+      <odeBlockId>block-1781373668404-iums7xf9j</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrr-puqq2cnp7</odePageId>
+          <odeBlockId>block-1781373668404-iums7xf9j</odeBlockId>
+          <odeIdeviceId>idevice-1781373668397-czabx9i4e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/mceclip4.jpg" title="Línea temporal" alt="Línea temporal de las actividades" />
+<figcaption class="figcaption"><span class="author">Isabel M. Montoya Morales</span>.</figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781373668397-czabx9i4e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/mceclip4.jpg\" title=\"Línea temporal\" alt=\"Línea temporal de las actividades\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel M. Montoya Morales</span>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqclhnrr-c52rvjtgi</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>6. Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqclhnrr-c52rvjtgi</odePageId>
+      <odeBlockId>block-1781386685501-isky1cbbl</odeBlockId>
+      <blockName>Criterios de evaluación asociados a las actividades</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrr-c52rvjtgi</odePageId>
+          <odeBlockId>block-1781386685501-isky1cbbl</odeBlockId>
+          <odeIdeviceId>idevice-1781386685493-ml3s6vryr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.091%; height: 2136.8px; background-color: #fbeeb8; border-color: #000000; border-style: double;">
+<tbody>
+<tr style="height: 66.4px; background-color: #f1c40f; border-color: #000000;">
+<td style="width: 18.633%; height: 66.4px; text-align: center; border: 2px double #000000;"><strong>TAREA </strong></td>
+<td style="width: 37.4477%; height: 66.4px; text-align: center; border: 2px double #000000;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 14.0895%; height: 66.4px; text-align: center; border: 2px double #000000;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 15.1779%; height: 66.4px; text-align: center; border: 2px double #000000;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 14.6337%; height: 66.4px; text-align: center; border: 2px double #000000;"><strong>HERRAMIENTA </strong></td>
+</tr>
+<tr style="height: 246.4px; border-color: #000000;">
+<td style="width: 18.633%; height: 246.4px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Introducción al lenguaje algebraico mediante vídeos y ejemplos sencillos. Traducción de expresiones cotidianas al lenguaje algebraico.</span></p>
+</td>
+<td style="width: 37.4477%; height: 246.4px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">1.1. Iniciarse en la interpretación de problemas matemáticos sencillos, reconociendo los datos dados, estableciendo relaciones entre ellos y comprendiendo las preguntas formuladas.</span></p>
+</td>
+<td style="width: 14.0895%; height: 246.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Individual y parejas</span></td>
+<td style="width: 15.1779%; height: 246.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; height: 246.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Padlet con vídeos y recursos digitales</span></td>
+</tr>
+<tr style="height: 242.4px; border-color: #000000;">
+<td style="width: 18.633%; height: 242.4px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Identificación de monomios y realización de operaciones básicas (suma, resta, multiplicación y división de monomios).</span></p>
+</td>
+<td style="width: 37.4477%; height: 242.4px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">3.1. Formular y comprobar conjeturas sencillas trabajando de forma individual o colectiva mediante patrones y relaciones matemáticas.</span></p>
+</td>
+<td style="width: 14.0895%; height: 242.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Parejas</span></td>
+<td style="width: 15.1779%; height: 242.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; height: 242.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Padlet con vídeos y recursos digitales</span></td>
+</tr>
+<tr style="height: 184.8px; border-color: #000000;">
+<td style="width: 18.633%; height: 184.8px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Resolución guiada de ecuaciones de primer grado sencillas utilizando estrategias paso a paso.</span></p>
+</td>
+<td style="width: 37.4477%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1.2. Aplicar herramientas y estrategias apropiadas, como el tanteo o la descomposición en problemas más sencillos, para resolver problemas cercanos.</span></td>
+<td style="width: 14.0895%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Individual y parejas</span></td>
+<td style="width: 15.1779%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;"> 1 sesión</span><br /></td>
+<td style="width: 14.6337%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Padlet con vídeos y recursos digitales</span><br /></td>
+</tr>
+<tr style="height: 184.8px; border-color: #000000;">
+<td style="width: 18.633%; height: 184.8px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Resolución de problemas mediante ecuaciones y puesta en común de resultados en parejas.</span></p>
+</td>
+<td style="width: 37.4477%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;"> 4.2. Modelizar situaciones del entorno cercano y resolver problemas sencillos interpretando y modificando algoritmos y modelos matemáticos.</span><br /></td>
+<td style="width: 14.0895%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Individual y parejas</span></td>
+<td style="width: 15.1779%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; height: 184.8px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Padlet y recursos digitales</span></td>
+</tr>
+<tr style="height: 213.6px; border-color: #000000;">
+<td style="width: 18.633%; height: 213.6px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Comprobación de resultados utilizando calculadora y corrección razonada de ejercicios algebraicos.</span></p>
+</td>
+<td style="width: 37.4477%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">2.1. Comprobar de forma razonada la corrección de las soluciones utilizando herramientas digitales como calculadoras o programas específicos.</span></td>
+<td style="width: 14.0895%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Individual y parejas</span></td>
+<td style="width: 15.1779%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Calculadora digital y GeoGebra</span></td>
+</tr>
+<tr style="height: 242.4px; text-align: center; border-color: #000000;">
+<td style="width: 18.633%; height: 242.4px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Elaboración del producto final en Canva: presentación o infografía explicando un problema algebraico resuelto paso a paso.</span></p>
+</td>
+<td style="width: 37.4477%; height: 242.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">7.1. Representar conceptos, procedimientos y resultados matemáticos usando herramientas digitales adecuadas para visualizar ideas y compartir información.</span></td>
+<td style="width: 14.0895%; height: 242.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Pequeños grupos</span></td>
+<td style="width: 15.1779%; height: 242.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; height: 242.4px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Canva</span></td>
+</tr>
+<tr style="height: 300px; text-align: center; border-color: #000000;">
+<td style="width: 18.633%; height: 300px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Preparación de exposiciones orales organizando ideas, ensayando la explicación del procedimiento matemático y revisando cooperativamente los trabajos realizados.</span></p>
+</td>
+<td style="width: 37.4477%; height: 300px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">8.1. Comunicar ideas, conceptos y procesos matemáticos utilizando lenguaje matemático apropiado y diferentes medios digitales y orales.</span></td>
+<td style="width: 14.0895%; height: 300px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Pequeños grupos</span></td>
+<td style="width: 15.1779%; height: 300px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; height: 300px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Canva</span></td>
+</tr>
+<tr style="height: 213.6px; text-align: center; border-color: #000000;">
+<td style="width: 18.633%; height: 213.6px; text-align: center; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Exposición oral de los productos finales explicando el procedimiento seguido y las soluciones obtenidas.</span></p>
+</td>
+<td style="width: 37.4477%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">8.1. Comunicar ideas, conceptos y procesos matemáticos utilizando lenguaje matemático apropiado y diferentes medios digitales y orales.</span></td>
+<td style="width: 14.0895%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">Grupo clase</span></td>
+<td style="width: 15.1779%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; height: 213.6px; text-align: center; border: 2px double #000000;"><span style="font-size: 12pt;"> Canva</span><br /></td>
+</tr>
+<tr style="text-align: center; border-color: #000000; height: 242.4px;">
+<td style="width: 18.633%; text-align: center; height: 242.4px; border: 2px double #000000;">
+<p><br /></p>
+<p><span style="font-size: 12pt;">Reflexión final y autoevaluación sobre el aprendizaje, las dificultades encontradas y el trabajo cooperativo realizado.</span></p>
+</td>
+<td style="width: 37.4477%; text-align: center; height: 242.4px; border: 2px double #000000;"><span style="font-size: 12pt;">9.1. Gestionar las emociones propias y desarrollar el autoconcepto matemático generando expectativas positivas ante los retos matemáticos.</span></td>
+<td style="width: 14.0895%; text-align: center; height: 242.4px; border: 2px double #000000;"><span style="font-size: 12pt;"> Individual</span><br /></td>
+<td style="width: 15.1779%; text-align: center; height: 242.4px; border: 2px double #000000;"><span style="font-size: 12pt;">1 sesión</span></td>
+<td style="width: 14.6337%; text-align: center; height: 242.4px; border: 2px double #000000;"><span style="font-size: 12pt;">Google Forms</span></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781386685493-ml3s6vryr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.091%; height: 2136.8px; background-color: #fbeeb8; border-color: #000000; border-style: double;\">\n<tbody>\n<tr style=\"height: 66.4px; background-color: #f1c40f; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 66.4px; text-align: center; border: 2px double #000000;\"><strong>TAREA </strong></td>\n<td style=\"width: 37.4477%; height: 66.4px; text-align: center; border: 2px double #000000;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 14.0895%; height: 66.4px; text-align: center; border: 2px double #000000;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 15.1779%; height: 66.4px; text-align: center; border: 2px double #000000;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 14.6337%; height: 66.4px; text-align: center; border: 2px double #000000;\"><strong>HERRAMIENTA </strong></td>\n</tr>\n<tr style=\"height: 246.4px; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 246.4px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Introducción al lenguaje algebraico mediante vídeos y ejemplos sencillos. Traducción de expresiones cotidianas al lenguaje algebraico.</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 246.4px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">1.1. Iniciarse en la interpretación de problemas matemáticos sencillos, reconociendo los datos dados, estableciendo relaciones entre ellos y comprendiendo las preguntas formuladas.</span></p>\n</td>\n<td style=\"width: 14.0895%; height: 246.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Individual y parejas</span></td>\n<td style=\"width: 15.1779%; height: 246.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; height: 246.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Padlet con vídeos y recursos digitales</span></td>\n</tr>\n<tr style=\"height: 242.4px; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 242.4px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Identificación de monomios y realización de operaciones básicas (suma, resta, multiplicación y división de monomios).</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 242.4px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">3.1. Formular y comprobar conjeturas sencillas trabajando de forma individual o colectiva mediante patrones y relaciones matemáticas.</span></p>\n</td>\n<td style=\"width: 14.0895%; height: 242.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Parejas</span></td>\n<td style=\"width: 15.1779%; height: 242.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; height: 242.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Padlet con vídeos y recursos digitales</span></td>\n</tr>\n<tr style=\"height: 184.8px; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 184.8px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Resolución guiada de ecuaciones de primer grado sencillas utilizando estrategias paso a paso.</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1.2. Aplicar herramientas y estrategias apropiadas, como el tanteo o la descomposición en problemas más sencillos, para resolver problemas cercanos.</span></td>\n<td style=\"width: 14.0895%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Individual y parejas</span></td>\n<td style=\"width: 15.1779%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\"> 1 sesión</span><br /></td>\n<td style=\"width: 14.6337%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Padlet con vídeos y recursos digitales</span><br /></td>\n</tr>\n<tr style=\"height: 184.8px; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 184.8px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Resolución de problemas mediante ecuaciones y puesta en común de resultados en parejas.</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\"> 4.2. Modelizar situaciones del entorno cercano y resolver problemas sencillos interpretando y modificando algoritmos y modelos matemáticos.</span><br /></td>\n<td style=\"width: 14.0895%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Individual y parejas</span></td>\n<td style=\"width: 15.1779%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; height: 184.8px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Padlet y recursos digitales</span></td>\n</tr>\n<tr style=\"height: 213.6px; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 213.6px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Comprobación de resultados utilizando calculadora y corrección razonada de ejercicios algebraicos.</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">2.1. Comprobar de forma razonada la corrección de las soluciones utilizando herramientas digitales como calculadoras o programas específicos.</span></td>\n<td style=\"width: 14.0895%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Individual y parejas</span></td>\n<td style=\"width: 15.1779%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Calculadora digital y GeoGebra</span></td>\n</tr>\n<tr style=\"height: 242.4px; text-align: center; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 242.4px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Elaboración del producto final en Canva: presentación o infografía explicando un problema algebraico resuelto paso a paso.</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 242.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">7.1. Representar conceptos, procedimientos y resultados matemáticos usando herramientas digitales adecuadas para visualizar ideas y compartir información.</span></td>\n<td style=\"width: 14.0895%; height: 242.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Pequeños grupos</span></td>\n<td style=\"width: 15.1779%; height: 242.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; height: 242.4px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Canva</span></td>\n</tr>\n<tr style=\"height: 300px; text-align: center; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 300px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Preparación de exposiciones orales organizando ideas, ensayando la explicación del procedimiento matemático y revisando cooperativamente los trabajos realizados.</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 300px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">8.1. Comunicar ideas, conceptos y procesos matemáticos utilizando lenguaje matemático apropiado y diferentes medios digitales y orales.</span></td>\n<td style=\"width: 14.0895%; height: 300px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Pequeños grupos</span></td>\n<td style=\"width: 15.1779%; height: 300px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; height: 300px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Canva</span></td>\n</tr>\n<tr style=\"height: 213.6px; text-align: center; border-color: #000000;\">\n<td style=\"width: 18.633%; height: 213.6px; text-align: center; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Exposición oral de los productos finales explicando el procedimiento seguido y las soluciones obtenidas.</span></p>\n</td>\n<td style=\"width: 37.4477%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">8.1. Comunicar ideas, conceptos y procesos matemáticos utilizando lenguaje matemático apropiado y diferentes medios digitales y orales.</span></td>\n<td style=\"width: 14.0895%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Grupo clase</span></td>\n<td style=\"width: 15.1779%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; height: 213.6px; text-align: center; border: 2px double #000000;\"><span style=\"font-size: 12pt;\"> Canva</span><br /></td>\n</tr>\n<tr style=\"text-align: center; border-color: #000000; height: 242.4px;\">\n<td style=\"width: 18.633%; text-align: center; height: 242.4px; border: 2px double #000000;\">\n<p><br /></p>\n<p><span style=\"font-size: 12pt;\">Reflexión final y autoevaluación sobre el aprendizaje, las dificultades encontradas y el trabajo cooperativo realizado.</span></p>\n</td>\n<td style=\"width: 37.4477%; text-align: center; height: 242.4px; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">9.1. Gestionar las emociones propias y desarrollar el autoconcepto matemático generando expectativas positivas ante los retos matemáticos.</span></td>\n<td style=\"width: 14.0895%; text-align: center; height: 242.4px; border: 2px double #000000;\"><span style=\"font-size: 12pt;\"> Individual</span><br /></td>\n<td style=\"width: 15.1779%; text-align: center; height: 242.4px; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">1 sesión</span></td>\n<td style=\"width: 14.6337%; text-align: center; height: 242.4px; border: 2px double #000000;\"><span style=\"font-size: 12pt;\">Google Forms</span></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqclhnrr-c52rvjtgi</odePageId>
+      <odeBlockId>block-1781390119685-dh75999lx</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrr-c52rvjtgi</odePageId>
+          <odeBlockId>block-1781390119685-dh75999lx</odeBlockId>
+          <odeIdeviceId>idevice-1781390119675-p0m348ukr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><a href="https://drive.google.com/file/d/1XTwuXHwwsYF0frURiTx6Nc-gGRDJEy07/view?usp=sharing" target="_blank" rel="noopener" title="">Instrumentos de evaluación</a></p>
+<p><br /><strong>Instrumento 1. Lista de cotejo para actividades y trabajo diario</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/mceclip5.png" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p><strong></strong><br /></p>
+<p><strong><br />Instrumento 2. Rúbrica de la presentación en Canva</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/mceclip6.png" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p><strong></strong><br /></p>
+<p><strong>Instrumento 3. Cuestionario de autoevaluación final</strong></p>
+<p><strong title="Cuestionario de autoevaluación"><a href="https://drive.google.com/file/d/1aPiMZ5iAPv30HxfuMaiTGYoqLlioXis4/view" title="Cuestionario de autoevaluación" target="_blank" rel="noopener">Cuestionario de autoevaluación</a></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781390119675-p0m348ukr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1XTwuXHwwsYF0frURiTx6Nc-gGRDJEy07/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Instrumentos de evaluación</a></p>\n<p><br /><strong>Instrumento 1. Lista de cotejo para actividades y trabajo diario</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip5.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p><strong></strong><br /></p>\n<p><strong><br />Instrumento 2. Rúbrica de la presentación en Canva</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip6.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p><strong></strong><br /></p>\n<p><strong>Instrumento 3. Cuestionario de autoevaluación final</strong></p>\n<p><strong title=\"Cuestionario de autoevaluación\"><a href=\"https://drive.google.com/file/d/1aPiMZ5iAPv30HxfuMaiTGYoqLlioXis4/view\" title=\"Cuestionario de autoevaluación\" target=\"_blank\" rel=\"noopener\">Cuestionario de autoevaluación</a></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781392449957-xadagsmft</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>7. Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781392449957-xadagsmft</odePageId>
+      <odeBlockId>block-1781392449962-888qhhppz</odeBlockId>
+      <blockName>Documento que relaciona las tareas del proyecto con los criterios de evaluación.</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781392449957-xadagsmft</odePageId>
+          <odeBlockId>block-1781392449962-888qhhppz</odeBlockId>
+          <odeIdeviceId>idevice-1781392449962-6qyb5odgi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1bJJAxvKVfMxBTC_5fLzgi56PWgTZVBF8/view?usp=sharing" target="_blank" rel="noopener" title="">Documento que relaciona las tareas del proyecto con los criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781392449962-6qyb5odgi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1bJJAxvKVfMxBTC_5fLzgi56PWgTZVBF8/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Documento que relaciona las tareas del proyecto con los criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqclhnrr-bkd7zp3o0</odePageId>
+  <odeParentPageId>page-1781368763640-0lggayec4</odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqclhnrr-bkd7zp3o0</odePageId>
+      <odeBlockId>block-1781394651528-ukyaoyqz2</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqclhnrr-bkd7zp3o0</odePageId>
+          <odeBlockId>block-1781394651528-ukyaoyqz2</odeBlockId>
+          <odeIdeviceId>idevice-1781394651525-nslfnbj4z</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Descubriendo el álgebra a través de retos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje dirigida al alumnado de 1.º de ESO para la introducción al lenguaje algebraico y la resolución de ecuaciones sencillas mediante retos matemáticos y el uso de herramientas digitales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Isabel María Montoya Morales</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>

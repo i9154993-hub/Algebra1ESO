@@ -1,0 +1,48 @@
+1
+00:00:01 --> 00:00:09
+REA Andalucía. Recursos Educativos Abiertos.
+
+2
+00:00:10 --> 00:00:15
+¡Hola! Debes inventar un truco utilizando las siguientes expresiones algebraicas:
+
+3
+00:00:20 --> 00:00:23
+Paso1: X
+
+4
+00:00:26 --> 00:00:30
+Paso 2: X - 1
+
+5
+00:00:33 --> 00:00:36
+Paso 3: X - 1 + X - 1
+
+6
+00:00:40 --> 00:00:44
+Paso 4: X + X - 10
+
+7
+00:00:46 --> 00:00:49
+Paso 5: X - 5
+
+8
+00:00:51 --> 00:00:54
+Paso 6: X
+
+9
+00:00:58 --> 00:01:01
+Paso 7: 0
+
+10
+00:01:05 --> 00:01:10
+¿Has conseguido inventar tu truco?
+Practica ahora con tus compañeros
+
+11
+00:01:14 --> 00:01:19
+REA Andalucía. Recursos Educativos Abiertos
+
+Andalucía se mueve con Europa
+
+Matemáticas. Primer Ciclo Secundaria
